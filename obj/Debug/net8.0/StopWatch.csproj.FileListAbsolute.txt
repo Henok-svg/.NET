@@ -23,3 +23,4 @@ C:\Users\Yoni\Desktop\vsFiles\.NET\StopWatch\obj\Debug\net8.0\refint\StopWatch.d
 C:\Users\Yoni\Desktop\vsFiles\.NET\StopWatch\obj\Debug\net8.0\StopWatch.pdb
 C:\Users\Yoni\Desktop\vsFiles\.NET\StopWatch\obj\Debug\net8.0\StopWatch.genruntimeconfig.cache
 C:\Users\Yoni\Desktop\vsFiles\.NET\StopWatch\obj\Debug\net8.0\ref\StopWatch.dll
+C:\Users\Yoni\Desktop\vsFiles\.NET\StopWatch\obj\Debug\net8.0\StopWatch.sourcelink.json
