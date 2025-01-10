@@ -44,8 +44,8 @@ class Program
     {
         Console.Clear();
         Console.WriteLine("=== StopWatch Application ===");
-        Console.WriteLine("B: Begin");
-        Console.WriteLine("S: Stop");
+        Console.WriteLine("S: Start");
+        Console.WriteLine("T: Stop");
         Console.WriteLine("R: Reset");
         Console.WriteLine("Q: Quit");
         Console.WriteLine("=============================");
