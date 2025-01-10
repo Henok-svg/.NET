@@ -17,10 +17,10 @@ class Program
 
             switch (input)
             {
-                case "B":
+                case "S":
                     stopwatch.Begin();
                     break;
-                case "S":
+                case "T":
                     stopwatch.Stop();
                     DisplayMessage("Press enter to continue...");
                     Console.ReadLine();
@@ -63,7 +63,7 @@ class Program
         Console.WriteLine("=== StopWatch Application ===");
         Console.WriteLine($"Elapsed Time: {time:mm\\:ss}");
         Console.WriteLine("=============================");
-        Console.WriteLine("Press S to Stop, R to Reset, Q to Quit, or wait to continue...");
+        Console.WriteLine("Press T to Stop, R to Reset, Q to Quit, or wait to continue...");
     }
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yoni\\Desktop\\vsFiles\\.NET\\StopWatch\\StopWatch.csproj": {}
+    "C:\\Users\\Yoni\\Desktop\\vsFiles\\.NET\\Stopwatch\\StopWatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yoni\\Desktop\\vsFiles\\.NET\\StopWatch\\StopWatch.csproj": {
+    "C:\\Users\\Yoni\\Desktop\\vsFiles\\.NET\\Stopwatch\\StopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yoni\\Desktop\\vsFiles\\.NET\\StopWatch\\StopWatch.csproj",
+        "projectUniqueName": "C:\\Users\\Yoni\\Desktop\\vsFiles\\.NET\\Stopwatch\\StopWatch.csproj",
         "projectName": "StopWatch",
-        "projectPath": "C:\\Users\\Yoni\\Desktop\\vsFiles\\.NET\\StopWatch\\StopWatch.csproj",
+        "projectPath": "C:\\Users\\Yoni\\Desktop\\vsFiles\\.NET\\Stopwatch\\StopWatch.csproj",
         "packagesPath": "C:\\Users\\Yoni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yoni\\Desktop\\vsFiles\\.NET\\StopWatch\\obj\\",
+        "outputPath": "C:\\Users\\Yoni\\Desktop\\vsFiles\\.NET\\Stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yoni\\AppData\\Roaming\\NuGet\\NuGet.Config"
